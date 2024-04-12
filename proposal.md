@@ -1,21 +1,23 @@
 # Research Proposal: Did the increase in Work From Home during and following the COVID 19 pandemic have an impact on the quantity of Startups being developed?
 By Keith Cheung, Danny Hubert, Josh Simon
 
-## Big Research Question: What is the relationship between WFH and the quantity of startups being developed?
+## Research Question
 
-- Specifically focusing on the increase in WFH since 2019 due to the COVID-19 pandemic and its theoretical direct impact on the amount of startups that have been developed.
-- Big Picture: What drives creation of startup? Why are they created? 
-- Measure of our Success: the R2 between amount of WFH and Startup Development.
+The inspiration for our final project originates from the impact of the COVID-19 pandemic. We want to analyze how the recent shift in work from home (WFH) during and after the pandemic influences the quantity of startups developed. We plan on using prior work on WFH, employee attitude towards WFH, and various lists of startups to help us understand the relationship between the shift in WFH and the quantity of startups created. First, we need to assess the startups on a macro scale. Generally, we are asking the following questions: 
 
-## Hypothesis
-We believe that there will be a strong correlation between the increase of WFH since 2019 and the amount of startups that have been created. With an increase in WFH flexibility, more people are starting their own businesses.
+1. What drives the creation of startups? 
+2. Why are startups being developed?  
+
+We plan on looking at general trends across time and comparing the amount of startups developed each year to the proportion of WFH. Some of the specific questions we are answering to assess the amount of startups developed include: 
+
+1. Does the increase in WFH due to the COVID-19 pandemic have a direct impact on the amount of startups that have been developed?
+2. How is WFH correlated with the amount of startups created? 
+
+Our hypothesis is that we believe that there will be a strong correlation between the increase of WFH since 2019 and the amount of startups that have been created. With an increase in WFH flexibility, more people are starting their own businesses. Our goal is to maximize the R2 to show that there is a strong correlation between WFH and the amount of startups created. 
 
 ## Data
-- Sample Period: 2019-2023.
-- Observation: WFH % vs. total number of startups developed.
-- Sample Conditions: Restricting ourselves to these years and to the amount of startups, not on the longevity or success in order to judge if the increase in flexibility from WFH inspires creation.
-- Necessary Variables: % of WFH (WFH total / total workforce), Total number of startups.
-- Optional variables: Sentiment variable for showing WFH being favored over going into the office.
+For our dataset, we are using a sample period from 2019 to 2023. We are observing the percentage of WFH in each year and the total number of startups developed. Some of the sample conditions include restricting ourselves to these years and to the amount of startups, not on the logevity or success in order to judge if the increease in flexibility from WFH inspires creation. The necessary variable are % of WFH (WFH total / total workforce) and the total number of startups. Some of the optional variables are sentiment variables for showing WFH being favored over going into the office. Below is a list of prior work: 
+
 - Prior work:
     - https://www.kaggle.com/datasets/mohamedelzeini/the-impacts-of-working-remotely-and-in-an-office/data
          - Shows percentage of people that have experienced work from home and who prefers it.
@@ -29,8 +31,11 @@ We believe that there will be a strong correlation between the increase of WFH s
          - Startups since 2020; useful data includes number of startups has been growing since 2020 and entrepreneurs have strong passion for business despite the pandemic.
     - https://www.kaggle.com/datasets/nsfranck/y-combinator-startup-list
          - Startup list; can be used in a similar manner to the "S&P500" file if needed.
-- How we will continue our research
-    - * More internet searching, reaching out to Lehigh Libraries *
-- Raw Inputs: Go into our links and take note of what is in there that we will be collecting.
-- High Level Transformation Hypothesis: Merge multiple datasets, create visualizations to display regression results + other statistics we find important for our report.
+
+We plan on continuing our research by going through datasets online as well as reaching out to Lehigh Libraries. Our general plan for obtaining the data is to download the csv and excel files we found online and manipulate them into a dataframes that we can use to test our hypothesis. We would have to merge multiple datasets and use information on variables that would useful for identifying the relationship for WFH and startups. We plan on having an inputs folder with subfolders to keep WFH data and startup data separate during the data cleaning process. More specifically, we would download the raw data and perform eda techniques to identify outliers, missing data, or other unusual data and errors. Then, we will combine and merge all the data into one dataframe that we can use to create visualizations. We are planning on including different visualizations to give us more context to our answers about WFH and the amount of startups created. We are going to use regression across the sample time frame to see if there is a relationship between our variables. 
+
+
+
+
+
 
