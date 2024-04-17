@@ -35,9 +35,14 @@ For our dataset, we are using a sample period from 2015 to 2023. We are observin
 ## Methodology
 In order to find a relationship between the WFH and startup quantity, we will be making a regression model using the data we collected on the quantity of startups from 2015 - 2023 and the trend of WFH from those years. Our X (independent) variable is the statistical amount of WFH from that year and the y (dependent) variable is the amount of startups developed from the corresponding year in order to create a regression model that accurately reflects our predictive relationship. The unit of observation from this regression model will be the individual startups since they are unique examples of the units we are measuring. 
 
+For plotting regression results, we plan on using statsmodel and their built in plotting functions. We can plot how y is related to a single x variable, even if there are other x variables. This is done using ```sm.graphics.plot_partregress```. For a larger dataset, we can also use ```binsreg```. 
+
 
 ## Continuing Research
 We plan on continuing our research by going through datasets online as well as reaching out to Lehigh Libraries. Our general plan for obtaining the data is to download the csv and excel files we found online and manipulate them into a dataframes that we can use to test our hypothesis. We would have to merge multiple datasets and use information on variables that would useful for identifying the relationship for WFH and startups. We plan on having an inputs folder with subfolders to keep WFH data and startup data separate during the data cleaning process. More specifically, we would download the raw data and perform eda techniques to identify outliers, missing data, or other unusual data and errors. Then, we will combine and merge all the data into one dataframe that we can use to create visualizations. We are planning on including different visualizations to give us more context to our answers about WFH and the amount of startups created. We are going to use regression across the sample time frame to see if there is a relationship between our variables. 
+
+
+
 
 
 
