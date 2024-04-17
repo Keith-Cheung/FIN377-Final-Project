@@ -33,7 +33,7 @@ For our dataset, we are using a sample period from 2015 to 2023. We are observin
          - Startup list; can be used in a similar manner to the "S&P500" file if needed.
 
 ## Methodology
-In order to find a relationship between the WFH and startup quantity, we will be making a regression model using the data we collected on the quantity of startups from 2015 - 2023 and the trend of WFH from those years. Our X (independent) variable is the statistical amount of WFH from that year and the y (dependent) variable is the amount of startups developed from the corresponding year in order to create a regression model that accurately reflects our predictive relationship. The unit of observation from this regression model will be ###
+In order to find a relationship between the WFH and startup quantity, we will be making a regression model using the data we collected on the quantity of startups from 2015 - 2023 and the trend of WFH from those years. Our X (independent) variable is the statistical amount of WFH from that year and the y (dependent) variable is the amount of startups developed from the corresponding year in order to create a regression model that accurately reflects our predictive relationship. The unit of observation from this regression model will be the individual startups since they are unique examples of the units we are measuring. 
 
 
 ## Continuing Research
