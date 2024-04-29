@@ -1,0 +1,148 @@
+, ,,
+,,,
+Time series data from WFH Research,,,
+,,,
+,,,
+,,,
+See below for a description of each series included in this Excel file. We aim to provide updates by the 5th day of each month or shortly thereafter.,,,
+,,,
+For questions and information please email Jose Maria Barrero jose.barrero@itam.mx,,,
+,,,
+"When using this work, please cite: Barrero, Jose Maria, Nicholas Bloom, and Steven J. Davis, 2021. ""Why working from home will stick,"" National Bureau of Economic Research Working Paper 28731. All sheets include this suggested citation information.",,,
+,,,
+"Copyright 2024 by Jose Maria Barrero, Nicholas Bloom, and Steven J. Davis. The data in this .xlsx file are made available under the CC-BY 4.0 license https://creativecommons.org/licenses/by/4.0/. All sheets include an annotation to this effect.",,,
+,,,
+,,,
+,,,
+,Sheet name,Variable code,Description
+,,,
+,,,
+,WFH before-during COVID,,Time series for the amount of working from home before COVID (as of 2019 in the American Time Use Survey) and since the start of the pandemic. See https://wfhresearch.com/tracking-wfh/ for more on our latest methodology.
+,,,
+,,date,Month of Survey wave - YYYYMM. For Pre-COVID use 3 months before first wave
+,,wfhcovid_matquestion,"Current amount of WFH, % of full paid working days - equal-weighted average across workers. The value for March 2020 contains our UPDATED ESTIMATE (as of September 2023) of Pre-COVID WFH, as % of full paid working days using microdata from the 2019 American Time Use Survey"
+,,wfhcovid_frac_HPS,"Current amount of WFH, % of full paid working days from the Census Household Pulse Survey (HHP) - our estimate based on HHP microdata. We assign a given wave (""week"") of the HHP to the calendar month that covers most days when that wave was in the field. Therefore, multiple waves of the HHP may be used to compute a single monthly estimate. You may find more information about the HHP at the link: https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html"
+,,Notes,"Notes about a change in the survey question in November 2020, the source of pre-COVID data, and imputed data for September 2023 due to data quality issues with that survey wave."
+,,,
+,,,
+,WFH 1965 - present,,"Time series with historical data on the share of full paid days that are working from home days, going back to 1965. We use data from the American Heritage Time Use Study (AHTUS) for 1965, 1975, 1985, 1993, 1995, and 1998, the American Time Use Survey for 2003 to 2019, and append that to our preferred WFH series using our own Survey of Working Arrangements and Attitudes from May 2020 to the most recent month. We also include a series estimating the share of workers who are fully remote from the American Community Survey (ACS) for 1980 to 2019. In the AHTUS, ATUS, and ACS we restrict attention to persons earning $20,000 or more per year (measured in 2019 dollars) to match the earnings threshold for the SWAA during May 2020 to March 2021. (Starting in April 2021, the SWAA expanded to include persons earning between $10,000 and $20,000 per year.) In the ATUS and AHTUS, we count paid workdays as ones in which the individual devotes six or more hours of work to their main job, regardless of work location, and we count work-from-home days as ones in which the individual works six or more hours on their main job at home. This approach corresponds to the SWAA-based measure. In the ACS, we count someone as being fully remote if they say they work from home when asked for their primary commute mode (accounting for most of their commute distance). For further details, see the README at: https://wfhresearch.com/wp-content/uploads/2022/08/historical_wfh_readme.txt."
+,,,Special thanks to Shelby Buckman (buckman@stanford.edu) for tracking down and working with the historical (pre-2020) data.
+,,,
+,,date,Date of observation. For SWAA data (May 2020 and later) that is the month of the survey wave. For historical data from the ACS and AHTUS the data are annual and we use the first day of the relevant year.
+,,WFH_share,"Amount of WFH, % of full paid working days, historical and recent"
+,,Source_historical_series,"Source of data for each entry of the WFH_share series. ""AHTUS"" is the American Heritage Time Use Study. ""ATUS"" is the American Time Use Survey. ""SWAA"" is the Survey of Working Arrangements and Attitudes designed by WFH Research (www.wfhresearch.com"
+,,fullremote_hist,"% of US workers who are fully remote, historical series based on the American Time use survey."
+,,Source_fullremote_hist,"Source for data on fully remote workers, namely the ""ACS"" or American Community Survey."
+,,Notes,Notes imputed estimate for September 2023 due to data quality issues with that survey wave.
+,,,
+,,,
+,Employer Plans post-COVID WFH,,"Time series for the amount of working from home (days per week) employers are planning for after the pandemic, as of each survey wave"
+,,,
+,,date,Month of survey wave - YYYYMM
+,,wfh_days_postCOVID_planMAd,All Workers: Employer Planned Post-COVID WFH Days/Week 3-month Moving Average
+,,wfh_days_postCOVID_plan_eMAd,Workers Able to WFH: Employer Planned Post-COVID WFH Days/Week 3-month Moving Average
+,,Notes,Notes about suppressed data in September 2023 due to data quality issues with that survey wave.
+,,,
+,,,
+,Worker Desires post-COVID WFH,,"Time series for the amount of working from home (days per week) workers desire after the pandemic, as of each survey wave"
+,,,
+,,date,Month of survey wave - YYYYMM
+,,wfh_days_postCOVID_desMAd,All Workers: Desired Post-COVID WFH Days/Week 3-month Moving Average
+,,wfh_days_postCOVID_des_eMAd,Workers Able to WFH: Desired Post-COVID WFH Days/Week 3-month Moving Average
+,,Notes,Notes about suppressed data in September 2023 due to data quality issues with that survey wave.
+,,,
+,,,
+,Full Remote-Hybrid-Full Onsite,,"Time series of the share of people in full remote, hybrid, or fully onsite working arrangements. We report separate series for all workers and those who are able to work from home. Available for the November 2021 and later survey waves"
+,,,
+,,date,Month of survey wave - YYYYMM
+,,,
+,,full_onsite_curr,All Full-Time Wage and Salary Workers: % Fully On Site
+,,hybrid_curr,"All Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,full_remote_curr,All Full-Time Wage and Salary Workers: % Fully Remote
+,,,
+,,full_onsite_curr_e,Full-time Wage and Salary Workers Able to WFH: % Fully On Site
+,,hybrid_curr_e,"Full-time Wage and Salary Workers Able to WFH: % in Hybrid (some days working from home, some days working at employer or client site)"
+,,full_remote_curr_e,Full-time Wage and Salary Workers Able to WFH: % Fully Remote
+,,Notes,"Notes about the value of September 2023 data, which we impute based on recent months out of concern with data quality issues in September 2023."
+,,,
+,,,
+,Workday-weighted WFH series,,"Time series for the amount of working from home since May 2020. The series in this tab computes an average across workers that weights each worker by the number of days they worked in survey's reference week. Prior to November 2020, we did not ask how many days people worked during the week. In those early months we use an equal-weighted average, so the series in this tab and the one in the tab titled ""WFH before-during COVID"" are identical prior to November 2020. See https://wfhresearch.com/tracking-wfh/ for more on our latest methodology."
+,,,
+,,date,Month of Survey wave - YYYYMM.
+,,wfhcovid_matquestion_daywt,"Current amount of WFH, % of full paid working days - average across workers WEIGHTED BY NUMBER OF DAYS WORKED PER WEEK"
+,,Notes,Notes about a change in the survey question in November 2020 and imputed data for September 2023 due to data quality issues with that survey wave.
+,,,
+,,,
+,WFH by city,,"Time series of the amount of working from home (percent of full paid days) for: the top 10 largest cities; cities 11 to 50; other small cities and towns; and select top cities. All are 6 month centered moving averages subject to data availability. Because the underlying survey question changed in November 2020, we do a 3-month average for August to October 2020 (plotted as the October data point) and separately compute the 6-month centered moving average for November 2020 and later data. We do not have reliable data on geography prior to August 2020. We define cities using Combined Statistical Areas and obtain the list of major cities by population from: https://en.wikipedia.org/wiki/Combined_statistical_area (accessed in July 2022)."
+,,,
+,,date,Month of survey wave - YYYYMM
+,,wfhcovid_series_top10_MA6_,Top 10 cities: % of full paid days working from home
+,,wfhcovid_series_11to50_MA6_,Cities 11 to 50: % of full paid days working from home
+,,wfhcovid_series_other_MA6_,Smaller cities and towns (all locations not in the top 50 cities): % of full paid days working from home
+,,wfhcovid_series_MA6_Atlanta,Atlanta: % of full paid days working from home
+,,wfhcovid_series_MA6_BayArea,San Francisco Bay Area: % of full paid days working from home
+,,wfhcovid_series_MA6_Chicagoland,Chicago: % of full paid days working from home
+,,wfhcovid_series_MA6_DC,Washington DC: % of full paid days working from home
+,,wfhcovid_series_MA6_Dallas,Dallas: % of full paid days working from home
+,,wfhcovid_series_MA6_Houston,Houston: % of full paid days working from home
+,,wfhcovid_series_MA6_LosAngeles,Los Angeles: % of full paid days working from home
+,,wfhcovid_series_MA6_Miami,Miami: % of full paid days working from home
+,,wfhcovid_series_MA6_NewYork,New York: % of full paid days working from home
+,,Notes,Notes about a change in the survey question in November 2020 and suppressed data in September 2023 due to data quality issues.
+,,,
+,,,
+,Work Arrangements by Industry,,"Time series with the percent of full-time wage and salary workers in a given industry who are in full remote, hybrid, or full onsite working arrangements. There is a separate series for each type of working arrangement and each industry. To smooth out fluctuations from small samples in a given industry and month, we report the series as 3-month centered moving averages (2-month at the start and end of the series)."
+,,,
+,,date,Month of survey wave - YYYYMM
+,,full_onsite_arts_entertain,Arts & Entertainment Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_education,Education Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_finance_insurance,Finance & Insurance Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_government,Government Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_healthcare,Health Care & Social Assistance Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_hospitaility_food,Hospitality & Food Services Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_information,Information Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_manufacturing,Manufacturing Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_prof_bus_services,Professional & Business Services Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_realestate,Real Estate Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_retail,Retail Trade Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_transp_warehousing,Transportation and Warehousing Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_utilities,Utilities Full-Time Wage and Salary Workers: % Fully On Site
+,,full_onsite_wholesale,Wholesale Trade Full-Time Wage and Salary Workers: % Fully On Site
+,,hybrid_arts_entertain,"Arts & Entertainment Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_education,"Education Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_finance_insurance,"Finance & Insurance Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_government,"Government Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_healthcare,"Health Care & Social Assistance Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_hospitaility_food,"Hospitality & Food Services Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_information,"Information Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_manufacturing,"Manufacturing Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_prof_bus_services,"Professional & Business Services Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_realestate,"Real Estate Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_retail,"Retail Trade Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_transp_warehousing,"Transportation and Warehousing Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_utilities,"Utilities Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,hybrid_wholesale,"Wholesale Trade Full-Time Wage and Salary Workers: % in Hybrid (some days working from home, some days at employer or client site)"
+,,full_remote_arts_entertain,Arts & Entertainment Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_education,Education Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_finance_insurance,Finance & Insurance Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_government,Government Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_healthcare,Health Care & Social Assistance Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_hospitaility_food,Hospitality & Food Services Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_information,Information Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_manufacturing,Manufacturing Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_prof_bus_services,Professional & Business Services Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_realestate,Real Estate Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_retail,Retail Trade Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_transp_warehousing,Transportation and Warehousing Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_utilities,Utilities Full-Time Wage and Salary Workers: % Fully Remote
+,,full_remote_wholesale,Wholesale Trade Full-Time Wage and Salary Workers: % Fully Remote
+,,Notes,Notes about suppressed data in September 2023 due to data quality issues.
+,,,
+,,,
+,LEGACY WFH series,,"Time series of our legacy measure of current WFH. We retired this methodology in June 2022 in favor of the one used in the sheet ""WFH before-during COVID"" above. As of the 5 June 2023 data release, we have stopped updating this tab and series."
+,,,
+,,date,Month of Survey wave - YYYYMM. For Pre- and Post-COVID use 3 months before/after
+,,atus_wfhdays,"Pre-COVID WFH, % of full paid working days. Barrero, Bloom, and Davis (2021) estimate using tabular data from the 2017-2018 American Time Use Survey."
+,,wfhcovid,"COVID WFH, % of full paid working days - LEGACY METHODOLOGY RETIRED June 2022"
+,,wfh_days_postcovid,"Post-COVID WFH, % of full paid working days using latest survey wave"
+,,Notes,"Notes about a change in the survey question in November 2020, source of pre-COVID data and post-COVID estimate"
