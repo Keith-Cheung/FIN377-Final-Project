@@ -1,18 +1,18 @@
-# "We Have Startups at Home" FIN 377 Final Report
+# *"We Have Startups at Home" FIN 377 Final Report*
 
 ## Project Summary
 
-# Hypothesis
+## Hypothesis
 
-# Methodology
+## Methodology
 
-# Figures
+## Figures
 
-# Interpretation/Discussion
+## Interpretation/Discussion
 
-# Additional Notes
+## Additional Notes
 
-# Conclusion
+## Conclusion
 
 ## Source Code
 Startup development: https://www.bls.gov/bdm/us_age_naics_00_table7.txt
