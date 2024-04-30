@@ -1,0 +1,11 @@
+index,date,WFH_share,Source_historical_series,fullremote_hist,Source_fullremote_hist,Notes,year
+18.0,2015-01-01 00:00:00,6.8,ATUS,3.5,ACS,,2015
+19.0,2016-01-01 00:00:00,5.9,ATUS,3.9,ACS,,2016
+20.0,2017-01-01 00:00:00,6.9,ATUS,4.1,ACS,,2017
+21.0,2018-01-01 00:00:00,5.3,ATUS,4.2,ACS,,2018
+22.0,2019-01-01 00:00:00,7.2,ATUS,4.7,ACS,,2019
+,NaN,46.3,NaN,NaN,NaN,NaN,2020
+,NaN,33.6,NaN,NaN,NaN,NaN,2021
+,NaN,30.3,NaN,NaN,NaN,NaN,2022
+,NaN,28.8,NaN,NaN,NaN,NaN,2023
+,NaN,28.0,NaN,NaN,NaN,NaN,2024
