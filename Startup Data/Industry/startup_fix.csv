@@ -1,0 +1,235 @@
+sa,sector,series,geo,year,startups
+A,Utilities,BA_BA,US,1/1/2021,377
+A,Utilities,BA_BA,US,2/1/2021,393
+A,Utilities,BA_BA,US,3/1/2021,487
+A,Utilities,BA_BA,US,4/1/2021,430
+A,Utilities,BA_BA,US,5/1/2021,420
+A,Utilities,BA_BA,US,6/1/2021,368
+A,Utilities,BA_BA,US,7/1/2021,455
+A,Utilities,BA_BA,US,8/1/2021,367
+A,Utilities,BA_BA,US,9/1/2021,411
+A,Utilities,BA_BA,US,10/1/2021,365
+A,Utilities,BA_BA,US,11/1/2021,440
+A,Utilities,BA_BA,US,12/1/2021,338
+A,Utilities,BA_BA,US,1/1/2022,419
+A,Utilities,BA_BA,US,2/1/2022,470
+A,Utilities,BA_BA,US,3/1/2022,540
+A,Utilities,BA_BA,US,4/1/2022,454
+A,Utilities,BA_BA,US,5/1/2022,459
+A,Utilities,BA_BA,US,6/1/2022,464
+A,Utilities,BA_BA,US,7/1/2022,454
+A,Utilities,BA_BA,US,8/1/2022,510
+A,Utilities,BA_BA,US,9/1/2022,564
+A,Utilities,BA_BA,US,10/1/2022,525
+A,Utilities,BA_BA,US,11/1/2022,477
+A,Utilities,BA_BA,US,12/1/2022,398
+A,Utilities,BA_BA,US,1/1/2023,547
+A,Utilities,BA_BA,US,2/1/2023,639
+A,Utilities,BA_BA,US,3/1/2023,656
+A,Utilities,BA_BA,US,4/1/2023,643
+A,Utilities,BA_BA,US,5/1/2023,540
+A,Utilities,BA_BA,US,6/1/2023,566
+A,Utilities,BA_BA,US,7/1/2023,610
+A,Utilities,BA_BA,US,8/1/2023,623
+A,Utilities,BA_BA,US,9/1/2023,524
+A,Utilities,BA_BA,US,10/1/2023,601
+A,Utilities,BA_BA,US,11/1/2023,608
+A,Utilities,BA_BA,US,12/1/2023,517
+A,Utilities,BA_BA,US,1/1/2024,648
+A,Utilities,BA_BA,US,2/1/2024,647
+A,Utilities,BA_BA,US,3/1/2024,803
+A,Wholesale Trade,BA_BA,US,1/1/2021,12575
+A,Wholesale Trade,BA_BA,US,2/1/2021,11094
+A,Wholesale Trade,BA_BA,US,3/1/2021,11963
+A,Wholesale Trade,BA_BA,US,4/1/2021,13035
+A,Wholesale Trade,BA_BA,US,5/1/2021,12474
+A,Wholesale Trade,BA_BA,US,6/1/2021,11248
+A,Wholesale Trade,BA_BA,US,7/1/2021,11012
+A,Wholesale Trade,BA_BA,US,8/1/2021,10607
+A,Wholesale Trade,BA_BA,US,9/1/2021,10215
+A,Wholesale Trade,BA_BA,US,10/1/2021,10007
+A,Wholesale Trade,BA_BA,US,11/1/2021,9666
+A,Wholesale Trade,BA_BA,US,12/1/2021,9415
+A,Wholesale Trade,BA_BA,US,1/1/2022,9655
+A,Wholesale Trade,BA_BA,US,2/1/2022,9273
+A,Wholesale Trade,BA_BA,US,3/1/2022,9154
+A,Wholesale Trade,BA_BA,US,4/1/2022,10098
+A,Wholesale Trade,BA_BA,US,5/1/2022,9807
+A,Wholesale Trade,BA_BA,US,6/1/2022,9122
+A,Wholesale Trade,BA_BA,US,7/1/2022,9557
+A,Wholesale Trade,BA_BA,US,8/1/2022,9406
+A,Wholesale Trade,BA_BA,US,9/1/2022,9748
+A,Wholesale Trade,BA_BA,US,10/1/2022,10173
+A,Wholesale Trade,BA_BA,US,11/1/2022,10180
+A,Wholesale Trade,BA_BA,US,12/1/2022,10069
+A,Wholesale Trade,BA_BA,US,1/1/2023,10061
+A,Wholesale Trade,BA_BA,US,2/1/2023,10360
+A,Wholesale Trade,BA_BA,US,3/1/2023,10758
+A,Wholesale Trade,BA_BA,US,4/1/2023,10257
+A,Wholesale Trade,BA_BA,US,5/1/2023,10500
+A,Wholesale Trade,BA_BA,US,6/1/2023,11398
+A,Wholesale Trade,BA_BA,US,7/1/2023,10886
+A,Wholesale Trade,BA_BA,US,8/1/2023,10361
+A,Wholesale Trade,BA_BA,US,9/1/2023,9861
+A,Wholesale Trade,BA_BA,US,10/1/2023,9458
+A,Wholesale Trade,BA_BA,US,11/1/2023,9452
+A,Wholesale Trade,BA_BA,US,12/1/2023,10481
+A,Wholesale Trade,BA_BA,US,1/1/2024,9583
+A,Wholesale Trade,BA_BA,US,2/1/2024,9620
+A,Wholesale Trade,BA_BA,US,3/1/2024,9383
+A,Transportation and Warehousing,BA_BA,US,1/1/2021,40285
+A,Transportation and Warehousing,BA_BA,US,2/1/2021,33911
+A,Transportation and Warehousing,BA_BA,US,3/1/2021,36966
+A,Transportation and Warehousing,BA_BA,US,4/1/2021,42856
+A,Transportation and Warehousing,BA_BA,US,5/1/2021,43433
+A,Transportation and Warehousing,BA_BA,US,6/1/2021,41786
+A,Transportation and Warehousing,BA_BA,US,7/1/2021,40964
+A,Transportation and Warehousing,BA_BA,US,8/1/2021,39886
+A,Transportation and Warehousing,BA_BA,US,9/1/2021,40818
+A,Transportation and Warehousing,BA_BA,US,10/1/2021,40841
+A,Transportation and Warehousing,BA_BA,US,11/1/2021,41095
+A,Transportation and Warehousing,BA_BA,US,12/1/2021,38939
+A,Transportation and Warehousing,BA_BA,US,1/1/2022,38625
+A,Transportation and Warehousing,BA_BA,US,2/1/2022,37345
+A,Transportation and Warehousing,BA_BA,US,3/1/2022,35561
+A,Transportation and Warehousing,BA_BA,US,4/1/2022,36778
+A,Transportation and Warehousing,BA_BA,US,5/1/2022,36185
+A,Transportation and Warehousing,BA_BA,US,6/1/2022,34306
+A,Transportation and Warehousing,BA_BA,US,7/1/2022,34035
+A,Transportation and Warehousing,BA_BA,US,8/1/2022,35668
+A,Transportation and Warehousing,BA_BA,US,9/1/2022,35540
+A,Transportation and Warehousing,BA_BA,US,10/1/2022,36615
+A,Transportation and Warehousing,BA_BA,US,11/1/2022,34132
+A,Transportation and Warehousing,BA_BA,US,12/1/2022,33364
+A,Transportation and Warehousing,BA_BA,US,1/1/2023,33486
+A,Transportation and Warehousing,BA_BA,US,2/1/2023,34192
+A,Transportation and Warehousing,BA_BA,US,3/1/2023,34857
+A,Transportation and Warehousing,BA_BA,US,4/1/2023,33959
+A,Transportation and Warehousing,BA_BA,US,5/1/2023,32234
+A,Transportation and Warehousing,BA_BA,US,6/1/2023,33963
+A,Transportation and Warehousing,BA_BA,US,7/1/2023,34292
+A,Transportation and Warehousing,BA_BA,US,8/1/2023,32735
+A,Transportation and Warehousing,BA_BA,US,9/1/2023,31411
+A,Transportation and Warehousing,BA_BA,US,10/1/2023,31237
+A,Transportation and Warehousing,BA_BA,US,11/1/2023,30775
+A,Transportation and Warehousing,BA_BA,US,12/1/2023,31051
+A,Transportation and Warehousing,BA_BA,US,1/1/2024,30697
+A,Transportation and Warehousing,BA_BA,US,2/1/2024,30776
+A,Transportation and Warehousing,BA_BA,US,3/1/2024,29336
+A,Finance and Insurance,BA_BA,US,1/1/2021,22445
+A,Finance and Insurance,BA_BA,US,2/1/2021,21083
+A,Finance and Insurance,BA_BA,US,3/1/2021,21374
+A,Finance and Insurance,BA_BA,US,4/1/2021,21875
+A,Finance and Insurance,BA_BA,US,5/1/2021,22405
+A,Finance and Insurance,BA_BA,US,6/1/2021,20590
+A,Finance and Insurance,BA_BA,US,7/1/2021,20358
+A,Finance and Insurance,BA_BA,US,8/1/2021,19738
+A,Finance and Insurance,BA_BA,US,9/1/2021,19936
+A,Finance and Insurance,BA_BA,US,10/1/2021,20810
+A,Finance and Insurance,BA_BA,US,11/1/2021,20970
+A,Finance and Insurance,BA_BA,US,12/1/2021,20189
+A,Finance and Insurance,BA_BA,US,1/1/2022,20186
+A,Finance and Insurance,BA_BA,US,2/1/2022,19529
+A,Finance and Insurance,BA_BA,US,3/1/2022,19009
+A,Finance and Insurance,BA_BA,US,4/1/2022,19344
+A,Finance and Insurance,BA_BA,US,5/1/2022,19572
+A,Finance and Insurance,BA_BA,US,6/1/2022,18480
+A,Finance and Insurance,BA_BA,US,7/1/2022,18891
+A,Finance and Insurance,BA_BA,US,8/1/2022,18368
+A,Finance and Insurance,BA_BA,US,9/1/2022,18235
+A,Finance and Insurance,BA_BA,US,10/1/2022,17951
+A,Finance and Insurance,BA_BA,US,11/1/2022,17189
+A,Finance and Insurance,BA_BA,US,12/1/2022,17148
+A,Finance and Insurance,BA_BA,US,1/1/2023,17538
+A,Finance and Insurance,BA_BA,US,2/1/2023,18728
+A,Finance and Insurance,BA_BA,US,3/1/2023,18966
+A,Finance and Insurance,BA_BA,US,4/1/2023,18118
+A,Finance and Insurance,BA_BA,US,5/1/2023,18176
+A,Finance and Insurance,BA_BA,US,6/1/2023,18745
+A,Finance and Insurance,BA_BA,US,7/1/2023,19044
+A,Finance and Insurance,BA_BA,US,8/1/2023,19067
+A,Finance and Insurance,BA_BA,US,9/1/2023,18118
+A,Finance and Insurance,BA_BA,US,10/1/2023,17172
+A,Finance and Insurance,BA_BA,US,11/1/2023,17364
+A,Finance and Insurance,BA_BA,US,12/1/2023,17453
+A,Finance and Insurance,BA_BA,US,1/1/2024,17577
+A,Finance and Insurance,BA_BA,US,2/1/2024,17452
+A,Finance and Insurance,BA_BA,US,3/1/2024,17748
+A,Real Estate,BA_BA,US,1/1/2021,24827
+A,Real Estate,BA_BA,US,2/1/2021,22073
+A,Real Estate,BA_BA,US,3/1/2021,22802
+A,Real Estate,BA_BA,US,4/1/2021,23917
+A,Real Estate,BA_BA,US,5/1/2021,24915
+A,Real Estate,BA_BA,US,6/1/2021,23576
+A,Real Estate,BA_BA,US,7/1/2021,23719
+A,Real Estate,BA_BA,US,8/1/2021,23964
+A,Real Estate,BA_BA,US,9/1/2021,24152
+A,Real Estate,BA_BA,US,10/1/2021,25456
+A,Real Estate,BA_BA,US,11/1/2021,25547
+A,Real Estate,BA_BA,US,12/1/2021,24543
+A,Real Estate,BA_BA,US,1/1/2022,25218
+A,Real Estate,BA_BA,US,2/1/2022,24449
+A,Real Estate,BA_BA,US,3/1/2022,24341
+A,Real Estate,BA_BA,US,4/1/2022,24728
+A,Real Estate,BA_BA,US,5/1/2022,25451
+A,Real Estate,BA_BA,US,6/1/2022,23444
+A,Real Estate,BA_BA,US,7/1/2022,23660
+A,Real Estate,BA_BA,US,8/1/2022,23498
+A,Real Estate,BA_BA,US,9/1/2022,24441
+A,Real Estate,BA_BA,US,10/1/2022,24495
+A,Real Estate,BA_BA,US,11/1/2022,23539
+A,Real Estate,BA_BA,US,12/1/2022,23133
+A,Real Estate,BA_BA,US,1/1/2023,23655
+A,Real Estate,BA_BA,US,2/1/2023,24309
+A,Real Estate,BA_BA,US,3/1/2023,24996
+A,Real Estate,BA_BA,US,4/1/2023,24222
+A,Real Estate,BA_BA,US,5/1/2023,24019
+A,Real Estate,BA_BA,US,6/1/2023,25201
+A,Real Estate,BA_BA,US,7/1/2023,25472
+A,Real Estate,BA_BA,US,8/1/2023,25145
+A,Real Estate,BA_BA,US,9/1/2023,23411
+A,Real Estate,BA_BA,US,10/1/2023,22525
+A,Real Estate,BA_BA,US,11/1/2023,22117
+A,Real Estate,BA_BA,US,12/1/2023,21708
+A,Real Estate,BA_BA,US,1/1/2024,21846
+A,Real Estate,BA_BA,US,2/1/2024,21895
+A,Real Estate,BA_BA,US,3/1/2024,21745
+A,Arts and Entertainment,BA_BA,US,1/1/2021,13204
+A,Arts and Entertainment,BA_BA,US,2/1/2021,11486
+A,Arts and Entertainment,BA_BA,US,3/1/2021,12006
+A,Arts and Entertainment,BA_BA,US,4/1/2021,14171
+A,Arts and Entertainment,BA_BA,US,5/1/2021,14580
+A,Arts and Entertainment,BA_BA,US,6/1/2021,13016
+A,Arts and Entertainment,BA_BA,US,7/1/2021,12844
+A,Arts and Entertainment,BA_BA,US,8/1/2021,11473
+A,Arts and Entertainment,BA_BA,US,9/1/2021,11639
+A,Arts and Entertainment,BA_BA,US,10/1/2021,11439
+A,Arts and Entertainment,BA_BA,US,11/1/2021,11511
+A,Arts and Entertainment,BA_BA,US,12/1/2021,11376
+A,Arts and Entertainment,BA_BA,US,1/1/2022,11278
+A,Arts and Entertainment,BA_BA,US,2/1/2022,10950
+A,Arts and Entertainment,BA_BA,US,3/1/2022,11043
+A,Arts and Entertainment,BA_BA,US,4/1/2022,11441
+A,Arts and Entertainment,BA_BA,US,5/1/2022,11794
+A,Arts and Entertainment,BA_BA,US,6/1/2022,11632
+A,Arts and Entertainment,BA_BA,US,7/1/2022,12352
+A,Arts and Entertainment,BA_BA,US,8/1/2022,12309
+A,Arts and Entertainment,BA_BA,US,9/1/2022,12312
+A,Arts and Entertainment,BA_BA,US,10/1/2022,13168
+A,Arts and Entertainment,BA_BA,US,11/1/2022,13065
+A,Arts and Entertainment,BA_BA,US,12/1/2022,13161
+A,Arts and Entertainment,BA_BA,US,1/1/2023,13708
+A,Arts and Entertainment,BA_BA,US,2/1/2023,13559
+A,Arts and Entertainment,BA_BA,US,3/1/2023,13613
+A,Arts and Entertainment,BA_BA,US,4/1/2023,13356
+A,Arts and Entertainment,BA_BA,US,5/1/2023,13292
+A,Arts and Entertainment,BA_BA,US,6/1/2023,13390
+A,Arts and Entertainment,BA_BA,US,7/1/2023,13389
+A,Arts and Entertainment,BA_BA,US,8/1/2023,13565
+A,Arts and Entertainment,BA_BA,US,9/1/2023,13349
+A,Arts and Entertainment,BA_BA,US,10/1/2023,13000
+A,Arts and Entertainment,BA_BA,US,11/1/2023,13180
+A,Arts and Entertainment,BA_BA,US,12/1/2023,13237
+A,Arts and Entertainment,BA_BA,US,1/1/2024,13034
+A,Arts and Entertainment,BA_BA,US,2/1/2024,12758
+A,Arts and Entertainment,BA_BA,US,3/1/2024,12582

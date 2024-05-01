@@ -1,0 +1,175 @@
+sector,year,wfh%
+Arts and Entertainment,11/1/2021,26.4
+Arts and Entertainment,12/1/2021,25
+Arts and Entertainment,1/1/2022,24.3
+Arts and Entertainment,2/1/2022,23.7
+Arts and Entertainment,3/1/2022,23.3
+Arts and Entertainment,4/1/2022,23.5
+Arts and Entertainment,5/1/2022,19.3
+Arts and Entertainment,6/1/2022,18.2
+Arts and Entertainment,7/1/2022,21.8
+Arts and Entertainment,8/1/2022,20.2
+Arts and Entertainment,9/1/2022,20.1
+Arts and Entertainment,10/1/2022,18.2
+Arts and Entertainment,11/1/2022,15.1
+Arts and Entertainment,12/1/2022,16
+Arts and Entertainment,1/1/2023,14.4
+Arts and Entertainment,2/1/2023,19.6
+Arts and Entertainment,3/1/2023,14.5
+Arts and Entertainment,4/1/2023,12.7
+Arts and Entertainment,5/1/2023,13.7
+Arts and Entertainment,6/1/2023,14.5
+Arts and Entertainment,7/1/2023,16.5
+Arts and Entertainment,8/1/2023,13.4
+Arts and Entertainment,9/1/2023,
+Arts and Entertainment,10/1/2023,15
+Arts and Entertainment,11/1/2023,14
+Arts and Entertainment,12/1/2023,14.6
+Arts and Entertainment,1/1/2024,14.9
+Arts and Entertainment,2/1/2024,15.5
+Arts and Entertainment,3/1/2024,15.6
+Finance and Insurance,11/1/2021,26.9
+Finance and Insurance,12/1/2021,29.2
+Finance and Insurance,1/1/2022,29.7
+Finance and Insurance,2/1/2022,28.7
+Finance and Insurance,3/1/2022,25.1
+Finance and Insurance,4/1/2022,23.9
+Finance and Insurance,5/1/2022,21.5
+Finance and Insurance,6/1/2022,20.5
+Finance and Insurance,7/1/2022,18.9
+Finance and Insurance,8/1/2022,19.3
+Finance and Insurance,9/1/2022,20.7
+Finance and Insurance,10/1/2022,21.1
+Finance and Insurance,11/1/2022,23.2
+Finance and Insurance,12/1/2022,24.4
+Finance and Insurance,1/1/2023,22.8
+Finance and Insurance,2/1/2023,22
+Finance and Insurance,3/1/2023,18.8
+Finance and Insurance,4/1/2023,19.9
+Finance and Insurance,5/1/2023,21.6
+Finance and Insurance,6/1/2023,23.3
+Finance and Insurance,7/1/2023,21.6
+Finance and Insurance,8/1/2023,20.9
+Finance and Insurance,9/1/2023,
+Finance and Insurance,10/1/2023,20.9
+Finance and Insurance,11/1/2023,23.5
+Finance and Insurance,12/1/2023,22
+Finance and Insurance,1/1/2024,22.5
+Finance and Insurance,2/1/2024,21.9
+Finance and Insurance,3/1/2024,23.3
+Real Estate,11/1/2021,22.1
+Real Estate,12/1/2021,21.3
+Real Estate,1/1/2022,22.5
+Real Estate,2/1/2022,22.1
+Real Estate,3/1/2022,21.7
+Real Estate,4/1/2022,12.9
+Real Estate,5/1/2022,11.2
+Real Estate,6/1/2022,8.1
+Real Estate,7/1/2022,13.7
+Real Estate,8/1/2022,14.6
+Real Estate,9/1/2022,14.8
+Real Estate,10/1/2022,9.9
+Real Estate,11/1/2022,10.4
+Real Estate,12/1/2022,13.1
+Real Estate,1/1/2023,13
+Real Estate,2/1/2023,11.8
+Real Estate,3/1/2023,7.8
+Real Estate,4/1/2023,9.9
+Real Estate,5/1/2023,8.8
+Real Estate,6/1/2023,10.4
+Real Estate,7/1/2023,15.1
+Real Estate,8/1/2023,17.1
+Real Estate,9/1/2023,
+Real Estate,10/1/2023,17
+Real Estate,11/1/2023,18
+Real Estate,12/1/2023,13.8
+Real Estate,1/1/2024,14.6
+Real Estate,2/1/2024,15.2
+Real Estate,3/1/2024,20.1
+Transportation and Warehousing,11/1/2021,9.5
+Transportation and Warehousing,12/1/2021,8
+Transportation and Warehousing,1/1/2022,6.9
+Transportation and Warehousing,2/1/2022,7.4
+Transportation and Warehousing,3/1/2022,7.1
+Transportation and Warehousing,4/1/2022,6.2
+Transportation and Warehousing,5/1/2022,5.3
+Transportation and Warehousing,6/1/2022,5.3
+Transportation and Warehousing,7/1/2022,3.9
+Transportation and Warehousing,8/1/2022,4
+Transportation and Warehousing,9/1/2022,4.7
+Transportation and Warehousing,10/1/2022,5.3
+Transportation and Warehousing,11/1/2022,5.1
+Transportation and Warehousing,12/1/2022,6.2
+Transportation and Warehousing,1/1/2023,6.6
+Transportation and Warehousing,2/1/2023,5.6
+Transportation and Warehousing,3/1/2023,3.4
+Transportation and Warehousing,4/1/2023,3
+Transportation and Warehousing,5/1/2023,4.9
+Transportation and Warehousing,6/1/2023,9.3
+Transportation and Warehousing,7/1/2023,11.2
+Transportation and Warehousing,8/1/2023,9.5
+Transportation and Warehousing,9/1/2023,
+Transportation and Warehousing,10/1/2023,4.7
+Transportation and Warehousing,11/1/2023,2.7
+Transportation and Warehousing,12/1/2023,4
+Transportation and Warehousing,1/1/2024,5.8
+Transportation and Warehousing,2/1/2024,6
+Transportation and Warehousing,3/1/2024,6.3
+Utilities,11/1/2021,6.4
+Utilities,12/1/2021,12.5
+Utilities,1/1/2022,14.2
+Utilities,2/1/2022,12.3
+Utilities,3/1/2022,4.9
+Utilities,4/1/2022,7.3
+Utilities,5/1/2022,11.5
+Utilities,6/1/2022,17.4
+Utilities,7/1/2022,20.8
+Utilities,8/1/2022,21.5
+Utilities,9/1/2022,17.8
+Utilities,10/1/2022,12.4
+Utilities,11/1/2022,10.1
+Utilities,12/1/2022,15.4
+Utilities,1/1/2023,16.8
+Utilities,2/1/2023,15
+Utilities,3/1/2023,8
+Utilities,4/1/2023,11.6
+Utilities,5/1/2023,13.7
+Utilities,6/1/2023,13.8
+Utilities,7/1/2023,13.3
+Utilities,8/1/2023,15.6
+Utilities,9/1/2023,
+Utilities,10/1/2023,21.7
+Utilities,11/1/2023,17.5
+Utilities,12/1/2023,16.5
+Utilities,1/1/2024,13.2
+Utilities,2/1/2024,13.1
+Utilities,3/1/2024,10.2
+Wholesale Trade,11/1/2021,43.3
+Wholesale Trade,12/1/2021,34.4
+Wholesale Trade,1/1/2022,19.2
+Wholesale Trade,2/1/2022,24.9
+Wholesale Trade,3/1/2022,25.9
+Wholesale Trade,4/1/2022,25.3
+Wholesale Trade,5/1/2022,19.7
+Wholesale Trade,6/1/2022,19.4
+Wholesale Trade,7/1/2022,15.1
+Wholesale Trade,8/1/2022,16.5
+Wholesale Trade,9/1/2022,19.2
+Wholesale Trade,10/1/2022,24.7
+Wholesale Trade,11/1/2022,21.8
+Wholesale Trade,12/1/2022,16.9
+Wholesale Trade,1/1/2023,13.6
+Wholesale Trade,2/1/2023,16.1
+Wholesale Trade,3/1/2023,14.4
+Wholesale Trade,4/1/2023,12.3
+Wholesale Trade,5/1/2023,10.4
+Wholesale Trade,6/1/2023,14.4
+Wholesale Trade,7/1/2023,12.2
+Wholesale Trade,8/1/2023,13.4
+Wholesale Trade,9/1/2023,
+Wholesale Trade,10/1/2023,12.5
+Wholesale Trade,11/1/2023,20.2
+Wholesale Trade,12/1/2023,21.2
+Wholesale Trade,1/1/2024,19.4
+Wholesale Trade,2/1/2024,14.6
+Wholesale Trade,3/1/2024,10.1
